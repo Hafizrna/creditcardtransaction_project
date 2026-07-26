@@ -21,38 +21,6 @@ The primary objectives of this project are to:
 
 ---
 
-# 📂 Dataset Overview
-
-This project uses **two datasets**.
-
-## 1. Credit Card Transaction Dataset
-
-The transaction dataset contains information related to:
-
-- Transaction Amount
-- Revenue
-- Interest Earned
-- Card Category
-- Expenditure Type
-- Transaction Count
-- Transaction Method
-- Week Number
-
-## 2. Customer Dataset
-
-The customer dataset includes:
-
-- Gender
-- Age Group
-- Income Group
-- Education Level
-- State
-- Card Category
-- Card Activation Status
-- Delinquent Status
-
----
-
 # 🧹 Data Cleaning & Transformation
 
 The following preprocessing steps were performed before analysis:
