@@ -50,7 +50,10 @@ The following preprocessing steps were performed before analysis:
 ---
 
 # 📈 Dashboard 1 – Credit Card Transaction Analysis
-
+---
+## 📷 Dashboard Preview
+![credit card project](credit_card.png)
+---
 ## Quarterly Revenue Analysis
 
 ### Insights
@@ -152,7 +155,10 @@ Financial institutions should encourage digital payment adoption through promoti
 ---
 
 # 👥 Dashboard 2 – Customer Analytics
-
+---
+## 📷 Dashboard Preview
+![credit card project](customer.png)
+---
 ## Revenue by Gender
 
 | Gender | Revenue |
@@ -241,7 +247,10 @@ Regional marketing campaigns should prioritize these high-performing states.
 ---
 
 # 📅 Dashboard 3 – Weekly Performance Report
-
+---
+## 📷 Dashboard Preview
+![credit card project](weekly.png)
+---
 ## Week-over-Week Revenue Growth
 
 The report compares:
